@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall articles of the Scots demands presented to the high and honourable court of Parliament by the commissioners appointed for the Kingdome of Scotland also their reall resolution and constant affection in joyning with their neighbour-nation of England for the defence of the religion and laws of the two Kingdomes against the common enemies of them both : knowing that the ruine of the one would prove the ruine of the other.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29400</idno><idno type="EEBO-CITATION">12307387</idno>
+  <idno type="VID">197653</idno>
+  <idno type="EEBO-PROQUEST">2240988481</idno>
+  
+            <idno type="STC">Wing S1336</idno>
+            <idno type="OCLC">12307387</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E118, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall articles of the Scots demands presented to the high and honourable court of Parliament by the commissioners appointed for the Kingdome of Scotland also their reall resolution and constant affection in joyning with their neighbour-nation of England for the defence of the religion and laws of the two Kingdomes against the common enemies of them both : knowing that the ruine of the one would prove the ruine of the other.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Upton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 17, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197653:1"/>
+            <p>
+               <hi>SEVERALL ARTICLES</hi> OF THE <hi>SCOTS DEMANDS,</hi> PRESENTED <hi>To the High and Honourable Court of PARLIAMENT,</hi> By the Commissioners appointed for the Kingdome of SCOTLAND.</p>
+            <p>
+               <hi>ALSO</hi> Their reall Resolution and constant affection in joyning with their Neighbour-Nation of <hi>England</hi> for the de<g ref="char:EOLhyphen"/>fence of the Religion and Laws of the two Kingdomes against the common Enemies of them both, knowing that the ruine of the one would prove the ruine of the other.</p>
+            <p>LONDON, <hi>Printed for J. Upton.</hi> Septemb. <hi>17. 1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197653:2"/>
+            <pb n="1" facs="tcp:197653:2"/>
+            <head>SEVERALL ARTICLES <hi>OF THE SCOTS DEMANDS,</hi> Humbly presented to the High and Honourable Court of Parliament, by the Commssioners of SCOTLAND. <hi>ALSO</hi> Their constant resolution and affection to <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in defence of the religion and lawes of the two Kingdomes against the common enemies of them both.</head>
+            <p>IT is desired that it may be entred in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s present Parliament, that no Scotish men, Scotish Ships or Vessels, or Passengers belonging to the Kingdome of <hi>Scotland</hi> be pressed by land or sea, in any part of <hi>England</hi> or <hi>Ireland,</hi> Sea-Ports or harbours thereof, seeing these are free from any Presse by the Law and practice of our Kingdome.</p>
+            <p n="2">2. For a better commerce and intercourse betwixt the Kingdomes of <hi>Scotland, England</hi> and <hi>Ireland,</hi> and that it may be now declared
+<pb n="3" facs="tcp:197653:3"/> lawfull to transport all goods and commodi<g ref="char:EOLhyphen"/>ties from <hi>Scotland,</hi> to <hi>England</hi> or <hi>Ireland,</hi> or from thence to <hi>Scotland</hi> in the same case, and as free from Customes and Taxations what<g ref="char:EOLhyphen"/>soever, as if they were transported from one Port of <hi>Scotland</hi> to another, or from one Port of <hi>England</hi> or <hi>Ireland</hi> to another, with these Declarations alwayes, that the said mu<g ref="char:EOLhyphen"/>tuall liberty insomuch as concernes goods prohibited by the Lawes of either of the Kingdomes to be transported to forraigne Nations, shall onely serve for the inward use of the said three Kingdomes.</p>
+            <p>Alenially and the manner of the restraint and punishment of the contraveners to be considered upon.</p>
+            <p>And that all Native and Forraigne com<g ref="char:EOLhyphen"/>modities not prohibited in the Kingdomes from whence they are transported, may by the Scotish men as freely be imported, as by any of His Majesties Subjects of <hi>England</hi> or <hi>Ireland,</hi> and so reciprocally in <hi>Scotland</hi> by the English and Irish.</p>
+            <p n="3">3. That the Scottish Ships coming from Forraine places, and arriving in any Roads, Havens, or Ports of <hi>England</hi> or <hi>Ireland,</hi> through tempests of weather, or for refresh<g ref="char:EOLhyphen"/>ment, or upon whatsoever other occasions, and not disclosed, may be free to passe and repasse without searching, or any other impe<g ref="char:EOLhyphen"/>diment:
+<pb n="2" facs="tcp:197653:3"/> and that if any Scotish men shalbe loaden with moneys or whatsoever Forraign Commodities in any Forraign part, or in any Forraigne Bottome, or in any English or Irish Bottome; That it shalbe free to the Owners thereof and their Factors to unload their mo<g ref="char:EOLhyphen"/>neyes, goods, and commodities aforesaid, at any Port of <hi>England</hi> or <hi>Ireland,</hi> and to trans<g ref="char:EOLhyphen"/>port the same from thence to <hi>Scotland</hi> with<g ref="char:EOLhyphen"/>out any impediment to be made to them, and the English and Irish to have the like liberty reciprocally in <hi>Scotland.</hi>
+            </p>
+            <p n="4">4. If any Scotish ships or any other ves<g ref="char:EOLhyphen"/>sels loaden with Scotish mens goods, going or coming from any Forraigne Nation per<g ref="char:EOLhyphen"/>taining to Scotish men, as aforesaid, shall ar<g ref="char:EOLhyphen"/>rive in any part of <hi>England</hi> or <hi>Ireland,</hi> and having necessity to sell a parcell of their said goods, that it shalbe lawfull for them to doe the same, and to transport the remnant to <hi>Scotland</hi> or elswhere, without the payment of any Custome, but for so much as they shall happed to sell, and the English and Irish to have the like liberty reciprocally in <hi>Scot<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p n="5">5. In respect of the great detriment su<g ref="char:EOLhyphen"/>stained by His Majesties Subjects, and by the <hi>Dunkirks</hi> and other Pirats, by robbing them of their goods, taking the ships, and spoyling their men: That some solid course may be
+<pb n="4" facs="tcp:197653:4"/> taken for the preventing the like in time to come; so that His Majesties Subjects may have free trade hereafter, and the Scotish ships passing to <hi>France, Holland,</hi> or any other part, may have a safe convoy of His Maje<g ref="char:EOLhyphen"/>sties ships, as the English and the Irish ships have.</p>
+            <p n="6">6. There can be no greater mark of mu<g ref="char:EOLhyphen"/>tuall unity betwixt the Kingdomes, then a free and peaceable conversing at home and abroad, therefore we crave from the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> that where the En<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lish have any out-trade or dealing in Forraigne places, that it may be free to Scotish men to out-trade and deale in the same places, without any impediment to be made to them by the English or Irish; and the English or Irish to have the like liberty in out-trade or dealing of Scotish men in any Forraigne places.</p>
+            <p n="7">7. That the Scots men be not debarred from being associated in companies within the Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> upon such conditions as the English and Irish are admitted; and this to be reciproc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly for <hi>England</hi> and <hi>Ireland</hi> in companies and all as<g ref="char:EOLhyphen"/>sociations in <hi>Scotland;</hi> and because there are not such manufactories as yet erected in <hi>Scot<g ref="char:EOLhyphen"/>land</hi> as are necessary, and that the trade of fishing (which is one of the greatest benefits
+<pb n="5" facs="tcp:197653:4"/> within His Majesties Dominions) is not yet brought to perfection; it is fit that by mu<g ref="char:EOLhyphen"/>tuall concourse of both Kingdomes, such a course may be taken, as may best bring the trade of manufactories in <hi>Scotland,</hi> and fish<g ref="char:EOLhyphen"/>ing within His Majesties seas to perfection, and that Commissioners may be directed by the King and Parliament of the Kingdomes to treat upon such meanes and conditions as may subsist with the freedome and liberties, and may conduce best to the good and bene<g ref="char:EOLhyphen"/>fit of His Majesties Dominions.</p>
+            <p n="8">8. That the House of Parliament would be pleased to take into their considerations the exorbitant customs and taxations, and o<g ref="char:EOLhyphen"/>ther rigorous dealings, whereof the parti<g ref="char:EOLhyphen"/>culars are set downe in a note herewith, gi<g ref="char:EOLhyphen"/>ven in, taken and used by the King of <hi>Den<g ref="char:EOLhyphen"/>marke</hi> both of the Scotish and English: and whereas His Majesties Subjects have already felt the smart thereof, that now some good course may be taken for reducing the said a<g ref="char:EOLhyphen"/>ctions to some reasonable, knowne and con<g ref="char:EOLhyphen"/>stant measure, and for the liberty of His Ma<g ref="char:EOLhyphen"/>jesties subjects from the like rigorous dealing in time to come.</p>
+            <p>Wherefore let all those who love Religi<g ref="char:EOLhyphen"/>on and their Liberty, joyne against the com<g ref="char:EOLhyphen"/>mon enemy, and let them be accursed who shall not seek the preservation of their neigh<g ref="char:EOLhyphen"/>bour
+<pb n="6" facs="tcp:197653:5"/> nation, both in Religion and Lawes, as their owne, as knowing that the ruine of one will prove the utter ruine of both. And knowing well, as having from their owne Councels discovered it, that the ruine of both was intended, and that it was ever their plot and purpose, that if they could not in<g ref="char:EOLhyphen"/>gage our dearest Brethren and Neighbour-Nation in a warre for our destruction, then to give us some ill assured peace, which might binde our hands and hold us quiet, un<g ref="char:EOLhyphen"/>till the yoke of bondage were more heavily and unremoveably laid upon our Brethren in <hi>England,</hi> by the help of such an Army as was pretended to be gathered against us. And as we attest the God of Heaven, that the main<g ref="char:EOLhyphen"/>tenance of Religion and Laws, and no other, is our aime, for the atchieving of which, we shall neither spare our paines, fortunes nor lives, which we know cannot be more pro<g ref="char:EOLhyphen"/>fitably and honourably spent.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
